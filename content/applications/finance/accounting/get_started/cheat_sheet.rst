@@ -15,7 +15,7 @@ Accounting cheat sheet
 
    * .. rst-class:: intro-assets
 
-     **Assets** represent the company's wealth and the goods it owns. Fixed assets include buildings
+     **Assets** rrepresent the company's wealth and the goods it owns. Fixed assets include buildings
      and offices, while current assets include bank accounts and cash. The money owed by a client is
      an asset. An employee is not an asset.
 
